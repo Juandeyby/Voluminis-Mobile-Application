@@ -2,7 +2,7 @@
 
 > Data collected
 
-| Order | Group | PreTest |  PostTest | 
+| Order | Group | PreTest | PostTest | 
 | - | - | - | - |
 | 01 | Control | 3 | 4 |
 | 02 | Control | 1 | 4 |
@@ -25,3 +25,42 @@
 | 19 | Experimental | 5 | 4 |
 | 20 | Experimental | 3 | 4 |
 | 21 | Experimental | 2 | 3 |
+
+> Test of Normality *PreTest*
+
+**Shapiro-Wilk**
+
+| Statistic | df | Sig. |
+| - | - | - |
+| .710 | 21 | .000 |
+
+
+> Test of Normality *PostTest*
+
+**Shapiro-Wilk**
+
+| Statistic | df | Sig. |
+| - | - | - |
+| .752 | 21 | .000 |
+
+> Differences between experimental and control groups *PreTest*
+
+**Mann-Whitney**
+
+|| Points. |
+| - | - |
+| Mann-Whitney | 44.000 |
+| Wilcoxon W | 99.000 |
+| Z | -.976 |
+| Asymp. Sig. | .329 |
+
+> Differences between experimental and control groups *PostTest*
+
+**Mann-Whitney**
+
+|| Points. |
+| - | - |
+| Mann-Whitney | 32.000 |
+| Wilcoxon W | 98.000 |
+| Z | -1.948 |
+| Asymp. Sig. | .51 |
