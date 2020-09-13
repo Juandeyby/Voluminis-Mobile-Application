@@ -1,5 +1,7 @@
 # Voluminis-Mobile-Application
 
+<div style="text-align:center"><img src="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Voluminis.png" /></div>
+
 > Data collected
 
 | Order | Group | PreTest | PostTest | 
