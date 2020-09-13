@@ -28,7 +28,7 @@
 
 ---
 
-> Test of Normality *PreTest*
+> Test of Normality *PreTest* <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Test%20of%20Normality%20PreTest.pdf" target="_blank">**Document**</a>
 
 **Shapiro-Wilk**
 
@@ -37,7 +37,7 @@
 | .710 | 21 | .000 |
 
 
-> Test of Normality *PostTest*
+> Test of Normality *PostTest* <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Test%20of%20Normality%20PostTest.pdf" target="_blank">**Document**</a>
 
 **Shapiro-Wilk**
 
@@ -45,7 +45,7 @@
 | - | - | - |
 | .752 | 21 | .000 |
 
-> Differences between experimental and control groups *PreTest*
+> Differences between experimental and control groups *PreTest* *PostTest* <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Differences%20between%20experimental%20and%20control%20groups%20PreTest.pdf" target="_blank">**Document**</a>
 
 **Mann-Whitney**
 
@@ -56,7 +56,7 @@
 | Z | -.976 |
 | Asymp. Sig. | .329 |
 
-> Differences between experimental and control groups *PostTest*
+> Differences between experimental and control groups *PostTest* <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Differences%20between%20experimental%20and%20control%20groups%20PostTest.pdf" target="_blank">**Document**</a>
 
 **Mann-Whitney**
 
@@ -69,7 +69,7 @@
 
 ---
 
-> Test of Normality (differences between post-test and pre-test)
+> Test of Normality (differences between post-test and pre-test) <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Test%20of%20Normality%20(Differences%20between%20post-test%20and%20pre-test).pdf" target="_blank">**Document**</a>
 
 **Kolmogorov-Smirnov**
 
@@ -78,7 +78,7 @@
 | Test Statistic | .317 |
 | Asymp. Sig. (2-tailed)| .000 |
 
-> Differences between post-test and pre-test *PreTest and PostTest*
+> Differences between post-test and pre-test *PreTest and PostTest* <a href="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Differences%20between%20post-test%20and%20pre-test%20PreTest%20and%20PostTest.pdf" target="_blank">**Document**</a>
 
 **Wilconson**
 
