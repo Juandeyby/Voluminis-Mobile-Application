@@ -26,6 +26,8 @@
 | 20 | Experimental | 3 | 4 |
 | 21 | Experimental | 2 | 3 |
 
+---
+
 > Test of Normality *PreTest*
 
 **Shapiro-Wilk**
@@ -64,3 +66,23 @@
 | Wilcoxon W | 98.000 |
 | Z | -1.948 |
 | Asymp. Sig. | .51 |
+
+---
+
+> Test of Normality (differences between post-test and pre-test)
+
+**Kolmogorov-Smirnov**
+
+|| Difference |
+| - | - |
+| Test Statistic | .317 |
+| Asymp. Sig. (2-tailed)| .000 |
+
+> Differences between post-test and pre-test *PreTest and PostTest*
+
+**Wilconson**
+
+|| PostTest-PreTest |
+| - | - |
+| Z | -3.366 |
+| Asymp. Sig. (2-tailed)| .001 |
