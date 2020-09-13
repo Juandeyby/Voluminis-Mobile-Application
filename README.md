@@ -1,6 +1,14 @@
 # Voluminis-Mobile-Application
 
-<div style="text-align:center"><img src="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Voluminis.png" /></div>
+<p align="center">
+  <img src="https://github.com/Juandeyby/Voluminis-Mobile-Application/blob/master/Voluminis.png" width="100" />
+</p>
+
+<p align="center">
+  <b>Voluminis</b>
+</p>
+
+---
 
 > Data collected
 
